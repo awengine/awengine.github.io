@@ -1,9 +1,8 @@
 # Ada's Portfolio
 My end-to-end projects across multiple domains including:
-- Web development
-- AI software development
+- Cloud architecture design and implementation
+- Web development in ReactJS, NodeJS
+- Software development in Python
 - Product/UX design
-- Cloud architecture design
-- Data analytics & data engineering
 
 More coming soon.
